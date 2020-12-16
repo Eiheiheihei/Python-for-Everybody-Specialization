@@ -1,0 +1,4 @@
+# convert EU floor number to US floor number
+euf = input("European floor?")
+usf = int(euf)+1
+print("US floor",usf)
